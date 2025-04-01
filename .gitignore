@@ -15,4 +15,3 @@ data/
 .ruff_cache/
 gui/
 *.log
-*.ipynb filter=lfs diff=lfs merge=lfs -text
