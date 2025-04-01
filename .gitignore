@@ -1,0 +1,18 @@
+__pycache__
+*.egg-info
+dickens/
+book.txt
+lightrag-dev/
+.idea/
+dist/
+env/
+local_neo4jWorkDir/
+neo4jWorkDir/
+ignore_this.txt
+.venv/
+data/
+*.ignore.*
+.ruff_cache/
+gui/
+*.log
+*.ipynb filter=lfs diff=lfs merge=lfs -text
